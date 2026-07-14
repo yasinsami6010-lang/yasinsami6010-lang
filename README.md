@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Yasin Sami
 
-<!--
-**yasinsami6010-lang/yasinsami6010-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Student at AIUB
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🌱 Currently learning Java, C#, SQL, and Web Development
+- 🔭 Working on academic and personal software projects
+- 💡 Interested in Software Engineering and Backend Development
+- 📍 Dhaka, Bangladesh
+
+---
+
+## Tech Stack
+
+- Java
+- C#
+- C++
+- SQL
+- HTML
+- CSS
+- Git
+- GitHub
+
+---
+
+## Connect with Me
+
+📧 yasinsami6010@gmail.com
